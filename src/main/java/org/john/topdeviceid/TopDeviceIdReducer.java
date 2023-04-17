@@ -1,4 +1,4 @@
-package org.john.TopDeviceId;
+package org.john.topdeviceid;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;

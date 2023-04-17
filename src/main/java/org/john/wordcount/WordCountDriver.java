@@ -1,4 +1,4 @@
-package org.john.word_count_demo_01;
+package org.john.wordcount;
 
 import org.john.Utils_hadoop;
 import org.apache.hadoop.conf.Configuration;
